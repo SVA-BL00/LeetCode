@@ -1,18 +1,17 @@
+#include <unordered_map>
+using namespace std;
 class Solution {
 public:
     vector<int> twoSum(vector<int>& nums, int target) {
-        if(nums.size() == 2){
-            return vector{0, 1};
-        }
-
+        unordered_map<int, int> checked;
         for(int i = 0; i < nums.size(); i++){
-            for(int j = i + 1; j < nums.size(); j++){
-                if(nums[i] + nums[j] == target){
-                    return vector{i, j};
-                }
+            int need = target - nums[i];
+            if(checked.find(need) == checked.end()){
+                checked[nums[i]] = i;
+            }else{
+                return vector<int>{i, checked[need]};
             }
         }
-
-        return{-1, -1};
+        return vector<int>{};
     }
 };
