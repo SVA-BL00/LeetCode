@@ -33,6 +33,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Hash Table
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -81,4 +83,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0045-jump-game-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/SVA-BL00/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+## Simulation
+|  |
+| ------- |
+| [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 <!---LeetCode Topics End-->
