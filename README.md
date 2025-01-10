@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVA-BL00/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0058-length-of-last-word](https://github.com/SVA-BL00/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0125-valid-palindrome) |
+| [1205-defanging-an-ip-address](https://github.com/SVA-BL00/LeetCode/tree/master/1205-defanging-an-ip-address) |
 ## Array
 |  |
 | ------- |
