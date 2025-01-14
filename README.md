@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1580-shuffle-the-array](https://github.com/SVA-BL00/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -127,6 +128,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0101-symmetric-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -134,6 +136,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0101-symmetric-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
+| [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 ## Binary Tree
 |  |
 | ------- |
@@ -144,6 +147,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Matrix
 |  |
 | ------- |
+| [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
 ## Bit Manipulation
@@ -154,4 +158,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+## Union Find
+|  |
+| ------- |
+| [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 <!---LeetCode Topics End-->
