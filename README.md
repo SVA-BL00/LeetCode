@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1580-shuffle-the-array](https://github.com/SVA-BL00/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
@@ -71,10 +72,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0088-merge-sorted-array](https://github.com/SVA-BL00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
+| [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 ## Counting
 |  |
 | ------- |
@@ -103,6 +106,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
@@ -146,4 +150,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+## Quickselect
+|  |
+| ------- |
+| [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 <!---LeetCode Topics End-->
