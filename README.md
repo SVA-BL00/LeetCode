@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SVA-BL00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SVA-BL00/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [1894-merge-strings-alternately](https://github.com/SVA-BL00/LeetCode/tree/master/1894-merge-strings-alternately) |
 ## String
 |  |
 | ------- |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1651-shuffle-string](https://github.com/SVA-BL00/LeetCode/tree/master/1651-shuffle-string) |
 | [1797-goal-parser-interpretation](https://github.com/SVA-BL00/LeetCode/tree/master/1797-goal-parser-interpretation) |
+| [1894-merge-strings-alternately](https://github.com/SVA-BL00/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 ## Array
 |  |
