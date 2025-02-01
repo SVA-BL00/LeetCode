@@ -205,6 +205,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SVA-BL00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0278-first-bad-version](https://github.com/SVA-BL00/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 ## Brainteaser
 |  |
@@ -226,4 +227,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0141-linked-list-cycle](https://github.com/SVA-BL00/LeetCode/tree/master/0141-linked-list-cycle) |
+## Interactive
+|  |
+| ------- |
+| [0278-first-bad-version](https://github.com/SVA-BL00/LeetCode/tree/master/0278-first-bad-version) |
 <!---LeetCode Topics End-->
