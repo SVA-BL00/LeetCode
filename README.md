@@ -56,6 +56,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
+| [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SVA-BL00/LeetCode/tree/master/0898-transpose-matrix) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -150,6 +151,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0055-jump-game](https://github.com/SVA-BL00/LeetCode/tree/master/0055-jump-game) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
+| [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 ## Heap (Priority Queue)
