@@ -21,15 +21,13 @@ public:
                     dec++;
                 }
             }else{
-                longest = max(longest, inc);
-                longest = max(longest, dec);
+                longest = max({longest, inc, dec});
                 dec = 0, inc = 0;
                 longest = max(longest, 1);
             }
         }
-        
-        longest = max(longest, inc);
-        longest = max(longest, dec);
+
+        longest = max({longest, inc, dec});
         return longest;
     }
 };
