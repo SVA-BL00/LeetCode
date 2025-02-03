@@ -1,4 +1,3 @@
-#include <unordered_set>
 using namespace std;
 class Solution {
 public:
@@ -7,7 +6,7 @@ public:
         int j = 0;
         unordered_set<char> seen;
         for(int i = 0; i < s.size(); i++){
-            while(seen.find(s[i]) != seen.end()){
+            while(seen.count(s[i])){
                 seen.erase(s[j]);
                 j++;
             }
