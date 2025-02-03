@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Divide and Conquer
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
@@ -157,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
@@ -256,6 +258,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Linked List
 |  |
 | ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0141-linked-list-cycle](https://github.com/SVA-BL00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SVA-BL00/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SVA-BL00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
@@ -275,4 +278,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+## Merge Sort
+|  |
+| ------- |
+| [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 <!---LeetCode Topics End-->
