@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SVA-BL00/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
@@ -130,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SVA-BL00/LeetCode/tree/master/0242-valid-anagram) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -185,6 +188,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Simulation
 |  |
