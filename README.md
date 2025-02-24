@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -261,6 +264,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 ## Binary Tree
 |  |
 | ------- |
@@ -377,4 +381,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2107-find-unique-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SVA-BL00/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SVA-BL00/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+## Graph
+|  |
+| ------- |
+| [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 <!---LeetCode Topics End-->
