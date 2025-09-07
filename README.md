@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0020-valid-parentheses](https://github.com/SVA-BL00/LeetCode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/SVA-BL00/LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/SVA-BL00/LeetCode/tree/master/0038-count-and-say) |
+| [0049-group-anagrams](https://github.com/SVA-BL00/LeetCode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/SVA-BL00/LeetCode/tree/master/0058-length-of-last-word) |
 | [0125-valid-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/SVA-BL00/LeetCode/tree/master/0151-reverse-words-in-a-string) |
@@ -57,6 +58,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0036-valid-sudoku](https://github.com/SVA-BL00/LeetCode/tree/master/0036-valid-sudoku) |
 | [0045-jump-game-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0045-jump-game-ii) |
 | [0048-rotate-image](https://github.com/SVA-BL00/LeetCode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/SVA-BL00/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SVA-BL00/LeetCode/tree/master/0055-jump-game) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SVA-BL00/LeetCode/tree/master/0088-merge-sorted-array) |
@@ -106,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0001-two-sum](https://github.com/SVA-BL00/LeetCode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SVA-BL00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0036-valid-sudoku](https://github.com/SVA-BL00/LeetCode/tree/master/0036-valid-sudoku) |
+| [0049-group-anagrams](https://github.com/SVA-BL00/LeetCode/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/SVA-BL00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
@@ -146,6 +149,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/SVA-BL00/LeetCode/tree/master/0049-group-anagrams) |
 | [0088-merge-sorted-array](https://github.com/SVA-BL00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
