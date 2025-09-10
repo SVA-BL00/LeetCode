@@ -70,6 +70,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SVA-BL00/LeetCode/tree/master/0898-transpose-matrix) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SVA-BL00/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SVA-BL00/LeetCode/tree/master/0242-valid-anagram) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 ## Divide and Conquer
@@ -164,12 +167,14 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Counting
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/SVA-BL00/LeetCode/tree/master/0169-majority-element) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SVA-BL00/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -219,6 +224,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/SVA-BL00/LeetCode/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -309,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 ## Union Find
 |  |
@@ -395,4 +402,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
