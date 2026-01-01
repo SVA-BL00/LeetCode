@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0048-rotate-image](https://github.com/SVA-BL00/LeetCode/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/SVA-BL00/LeetCode/tree/master/0049-group-anagrams) |
 | [0055-jump-game](https://github.com/SVA-BL00/LeetCode/tree/master/0055-jump-game) |
+| [0066-plus-one](https://github.com/SVA-BL00/LeetCode/tree/master/0066-plus-one) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/SVA-BL00/LeetCode/tree/master/0088-merge-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SVA-BL00/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0048-rotate-image](https://github.com/SVA-BL00/LeetCode/tree/master/0048-rotate-image) |
+| [0066-plus-one](https://github.com/SVA-BL00/LeetCode/tree/master/0066-plus-one) |
 | [0070-climbing-stairs](https://github.com/SVA-BL00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
 | [1013-fibonacci-number](https://github.com/SVA-BL00/LeetCode/tree/master/1013-fibonacci-number) |
