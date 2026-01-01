@@ -10,9 +10,8 @@ class Solution(object):
             if nums[i] == 1:
                 potential += 1
             else:
-                max_ones = max(max_ones, potential)
                 potential = 0
-        max_ones = max(max_ones, potential)
+            max_ones = max(max_ones, potential)
         return max_ones
 
         
