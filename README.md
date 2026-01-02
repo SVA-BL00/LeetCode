@@ -77,6 +77,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SVA-BL00/LeetCode/tree/master/0898-transpose-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/SVA-BL00/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/SVA-BL00/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1364-tuple-with-same-product](https://github.com/SVA-BL00/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
