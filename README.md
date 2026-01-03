@@ -212,6 +212,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/SVA-BL00/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/SVA-BL00/LeetCode/tree/master/1013-fibonacci-number) |
+| [1527-number-of-ways-to-paint-n-3-grid](https://github.com/SVA-BL00/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
