@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/SVA-BL00/LeetCode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1927-maximum-ascending-subarray-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1927-maximum-ascending-subarray-sum) |
 | [2058-concatenation-of-array](https://github.com/SVA-BL00/LeetCode/tree/master/2058-concatenation-of-array) |
+| [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -226,6 +227,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
 | [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SVA-BL00/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 ## Heap (Priority Queue)
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
+| [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 ## Bit Manipulation
 |  |
