@@ -87,6 +87,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/SVA-BL00/LeetCode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/SVA-BL00/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1580-shuffle-the-array](https://github.com/SVA-BL00/LeetCode/tree/master/1580-shuffle-the-array) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -219,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/SVA-BL00/LeetCode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [1013-fibonacci-number](https://github.com/SVA-BL00/LeetCode/tree/master/1013-fibonacci-number) |
 | [1527-number-of-ways-to-paint-n-3-grid](https://github.com/SVA-BL00/LeetCode/tree/master/1527-number-of-ways-to-paint-n-3-grid) |
+| [1569-max-dot-product-of-two-subsequences](https://github.com/SVA-BL00/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 ## Greedy
