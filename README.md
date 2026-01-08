@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SVA-BL00/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
@@ -126,6 +127,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SVA-BL00/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
