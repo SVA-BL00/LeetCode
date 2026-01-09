@@ -129,6 +129,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/SVA-BL00/LeetCode/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -272,6 +273,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/SVA-BL00/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -288,6 +290,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -303,6 +306,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/SVA-BL00/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
@@ -316,6 +320,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/SVA-BL00/LeetCode/tree/master/0112-path-sum) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
