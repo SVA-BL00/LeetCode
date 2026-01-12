@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1284-four-divisors](https://github.com/SVA-BL00/LeetCode/tree/master/1284-four-divisors) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1364-tuple-with-same-product](https://github.com/SVA-BL00/LeetCode/tree/master/1364-tuple-with-same-product) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SVA-BL00/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SVA-BL00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -212,6 +213,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1284-four-divisors](https://github.com/SVA-BL00/LeetCode/tree/master/1284-four-divisors) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SVA-BL00/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SVA-BL00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
@@ -413,6 +415,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1395-minimum-time-visiting-all-points](https://github.com/SVA-BL00/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
 ## Merge Sort
 |  |
 | ------- |
