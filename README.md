@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
+| [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -373,6 +374,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0278-first-bad-version](https://github.com/SVA-BL00/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
+| [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 ## Brainteaser
 |  |
 | ------- |
@@ -457,4 +459,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+## Segment Tree
+|  |
+| ------- |
+| [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
+## Line Sweep
+|  |
+| ------- |
+| [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 <!---LeetCode Topics End-->
