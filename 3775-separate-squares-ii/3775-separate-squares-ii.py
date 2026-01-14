@@ -1,3 +1,4 @@
+## Note: this code is from the editorial. Might come back to it later and review
 from typing import List
 import bisect
 
