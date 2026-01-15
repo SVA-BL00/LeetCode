@@ -111,6 +111,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SVA-BL00/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -183,6 +184,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
 |  |
 | ------- |
