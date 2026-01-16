@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SVA-BL00/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -151,6 +152,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 ## Sliding Window
 |  |
@@ -469,4 +471,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
+## Enumeration
+|  |
+| ------- |
+| [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 <!---LeetCode Topics End-->
