@@ -113,6 +113,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3372-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/SVA-BL00/LeetCode/tree/master/3372-longest-strictly-increasing-or-strictly-decreasing-subarray) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SVA-BL00/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 ## Dynamic Programming
 |  |
@@ -424,6 +426,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SVA-BL00/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 ## Merge Sort
 |  |
 | ------- |
