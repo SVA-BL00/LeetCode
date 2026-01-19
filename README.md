@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1364-tuple-with-same-product](https://github.com/SVA-BL00/LeetCode/tree/master/1364-tuple-with-same-product) |
 | [1395-minimum-time-visiting-all-points](https://github.com/SVA-BL00/LeetCode/tree/master/1395-minimum-time-visiting-all-points) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SVA-BL00/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SVA-BL00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -353,6 +354,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1311-largest-magic-square](https://github.com/SVA-BL00/LeetCode/tree/master/1311-largest-magic-square) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SVA-BL00/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SVA-BL00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SVA-BL00/LeetCode/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SVA-BL00/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 ## Brainteaser
@@ -391,6 +394,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1311-largest-magic-square](https://github.com/SVA-BL00/LeetCode/tree/master/1311-largest-magic-square) |
+| [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SVA-BL00/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
