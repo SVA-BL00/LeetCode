@@ -122,6 +122,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3429-special-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3429-special-array-i) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 ## Hash Table
@@ -366,6 +367,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
+| [3605-construct-the-minimum-bitwise-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 ## Quickselect
 |  |
 | ------- |
