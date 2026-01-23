@@ -125,6 +125,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3605-construct-the-minimum-bitwise-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3605-construct-the-minimum-bitwise-array-i) |
 | [3611-construct-the-minimum-bitwise-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3611-construct-the-minimum-bitwise-array-ii) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 ## Hash Table
@@ -160,6 +161,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Sliding Window
 |  |
@@ -272,6 +274,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Simulation
 |  |
@@ -286,6 +289,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3447-clear-digits](https://github.com/SVA-BL00/LeetCode/tree/master/3447-clear-digits) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Tree
 |  |
@@ -422,6 +426,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0141-linked-list-cycle](https://github.com/SVA-BL00/LeetCode/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/SVA-BL00/LeetCode/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/SVA-BL00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Interactive
 |  |
@@ -457,6 +462,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 ## Data Stream
 |  |
@@ -498,5 +504,6 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Doubly-Linked List
 |  |
 | ------- |
+| [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 <!---LeetCode Topics End-->
