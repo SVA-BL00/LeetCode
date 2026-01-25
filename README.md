@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2058-concatenation-of-array](https://github.com/SVA-BL00/LeetCode/tree/master/2058-concatenation-of-array) |
 | [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [2107-find-unique-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/2107-find-unique-binary-string) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
@@ -170,6 +171,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/SVA-BL00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 ## Stack
 |  |
 | ------- |
@@ -197,6 +199,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SVA-BL00/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 ## Divide and Conquer
