@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1284-four-divisors](https://github.com/SVA-BL00/LeetCode/tree/master/1284-four-divisors) |
+| [1306-minimum-absolute-difference](https://github.com/SVA-BL00/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1311-largest-magic-square](https://github.com/SVA-BL00/LeetCode/tree/master/1311-largest-magic-square) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
 | [1364-tuple-with-same-product](https://github.com/SVA-BL00/LeetCode/tree/master/1364-tuple-with-same-product) |
@@ -197,6 +198,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0242-valid-anagram](https://github.com/SVA-BL00/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
+| [1306-minimum-absolute-difference](https://github.com/SVA-BL00/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SVA-BL00/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
