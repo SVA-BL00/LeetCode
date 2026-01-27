@@ -285,6 +285,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Simulation
 |  |
 | ------- |
@@ -515,4 +516,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+## Graph Theory
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
+## Shortest Path
+|  |
+| ------- |
+| [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
