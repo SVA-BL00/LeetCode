@@ -132,6 +132,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Hash Table
 |  |
 | ------- |
@@ -259,6 +260,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1569-max-dot-product-of-two-subsequences](https://github.com/SVA-BL00/LeetCode/tree/master/1569-max-dot-product-of-two-subsequences) |
 | [1628-count-submatrices-with-all-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1628-count-submatrices-with-all-ones) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Greedy
 |  |
 | ------- |
@@ -379,6 +381,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1791-richest-customer-wealth](https://github.com/SVA-BL00/LeetCode/tree/master/1791-richest-customer-wealth) |
 | [2089-maximum-matrix-sum](https://github.com/SVA-BL00/LeetCode/tree/master/2089-maximum-matrix-sum) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
+| [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 ## Bit Manipulation
 |  |
 | ------- |
