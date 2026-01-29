@@ -50,6 +50,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SVA-BL00/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2107-find-unique-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/2107-find-unique-binary-string) |
 | [2456-construct-smallest-number-from-di-string](https://github.com/SVA-BL00/LeetCode/tree/master/2456-construct-smallest-number-from-di-string) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3447-clear-digits](https://github.com/SVA-BL00/LeetCode/tree/master/3447-clear-digits) |
 ## Array
 |  |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [2792-neighboring-bitwise-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2792-neighboring-bitwise-xor) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -522,9 +524,11 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph Theory
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 ## Shortest Path
 |  |
 | ------- |
+| [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
 <!---LeetCode Topics End-->
