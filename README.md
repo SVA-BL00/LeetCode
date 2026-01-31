@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/SVA-BL00/LeetCode/tree/master/0485-max-consecutive-ones) |
 | [0605-can-place-flowers](https://github.com/SVA-BL00/LeetCode/tree/master/0605-can-place-flowers) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SVA-BL00/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [0898-transpose-matrix](https://github.com/SVA-BL00/LeetCode/tree/master/0898-transpose-matrix) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
@@ -412,6 +413,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/SVA-BL00/LeetCode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0278-first-bad-version](https://github.com/SVA-BL00/LeetCode/tree/master/0278-first-bad-version) |
+| [0745-find-smallest-letter-greater-than-target](https://github.com/SVA-BL00/LeetCode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/SVA-BL00/LeetCode/tree/master/0792-binary-search) |
 | [1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold](https://github.com/SVA-BL00/LeetCode/tree/master/1413-maximum-side-length-of-a-square-with-sum-less-than-or-equal-to-threshold) |
 | [3763-separate-squares-i](https://github.com/SVA-BL00/LeetCode/tree/master/3763-separate-squares-i) |
