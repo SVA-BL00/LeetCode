@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SVA-BL00/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
@@ -171,6 +172,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2483-task-scheduler-ii](https://github.com/SVA-BL00/LeetCode/tree/master/2483-task-scheduler-ii) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3434-find-the-number-of-distinct-colors-among-the-balls](https://github.com/SVA-BL00/LeetCode/tree/master/3434-find-the-number-of-distinct-colors-among-the-balls) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0003-longest-substring-without-repeating-characters](https://github.com/SVA-BL00/LeetCode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 ## Stack
 |  |
 | ------- |
@@ -291,6 +294,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
