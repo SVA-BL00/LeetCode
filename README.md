@@ -140,6 +140,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3952-trionic-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3952-trionic-array-i) |
 ## Hash Table
 |  |
 | ------- |
