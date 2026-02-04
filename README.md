@@ -141,6 +141,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3952-trionic-array-i) |
+| [3956-trionic-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -273,6 +274,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
+| [3956-trionic-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Greedy
 |  |
 | ------- |
