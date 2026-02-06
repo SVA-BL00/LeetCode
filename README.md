@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3952-trionic-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3952-trionic-array-i) |
 | [3956-trionic-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3956-trionic-array-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/SVA-BL00/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/SVA-BL00/LeetCode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
 | [3260-divide-an-array-into-subarrays-with-minimum-cost-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3260-divide-an-array-into-subarrays-with-minimum-cost-ii) |
+| [3958-minimum-removals-to-balance-array](https://github.com/SVA-BL00/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Stack
 |  |
 | ------- |
@@ -218,6 +220,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/SVA-BL00/LeetCode/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [3214-maximize-area-of-square-hole-in-grid](https://github.com/SVA-BL00/LeetCode/tree/master/3214-maximize-area-of-square-hole-in-grid) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SVA-BL00/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [3958-minimum-removals-to-balance-array](https://github.com/SVA-BL00/LeetCode/tree/master/3958-minimum-removals-to-balance-array) |
 ## Divide and Conquer
 |  |
 | ------- |
