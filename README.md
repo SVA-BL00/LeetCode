@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3447-clear-digits](https://github.com/SVA-BL00/LeetCode/tree/master/3447-clear-digits) |
+| [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Array
 |  |
 | ------- |
@@ -185,6 +186,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
 | [4045-longest-balanced-subarray-i](https://github.com/SVA-BL00/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -251,6 +253,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SVA-BL00/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
+| [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Math
 |  |
 | ------- |
@@ -558,6 +561,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [3250-maximum-square-area-by-removing-fences-from-a-field](https://github.com/SVA-BL00/LeetCode/tree/master/3250-maximum-square-area-by-removing-fences-from-a-field) |
 | [3263-divide-an-array-into-subarrays-with-minimum-cost-i](https://github.com/SVA-BL00/LeetCode/tree/master/3263-divide-an-array-into-subarrays-with-minimum-cost-i) |
+| [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 ## Doubly-Linked List
 |  |
 | ------- |
