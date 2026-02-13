@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3447-clear-digits](https://github.com/SVA-BL00/LeetCode/tree/master/3447-clear-digits) |
 | [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Array
 |  |
 | ------- |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [4045-longest-balanced-subarray-i](https://github.com/SVA-BL00/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
+| [4056-longest-balanced-substring-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -466,6 +468,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [4045-longest-balanced-subarray-i](https://github.com/SVA-BL00/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
+| [4056-longest-balanced-substring-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
