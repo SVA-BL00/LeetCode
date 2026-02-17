@@ -434,6 +434,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [0067-add-binary](https://github.com/SVA-BL00/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0190-reverse-bits) |
+| [0401-binary-watch](https://github.com/SVA-BL00/LeetCode/tree/master/0401-binary-watch) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -538,6 +539,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Backtracking
 |  |
 | ------- |
+| [0401-binary-watch](https://github.com/SVA-BL00/LeetCode/tree/master/0401-binary-watch) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SVA-BL00/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/SVA-BL00/LeetCode/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
