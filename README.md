@@ -435,6 +435,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SVA-BL00/LeetCode/tree/master/0067-add-binary) |
 | [0190-reverse-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/SVA-BL00/LeetCode/tree/master/0401-binary-watch) |
+| [0693-binary-number-with-alternating-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
