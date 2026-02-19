@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
 | [0345-reverse-vowels-of-a-string](https://github.com/SVA-BL00/LeetCode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SVA-BL00/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/SVA-BL00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0908-middle-of-the-linked-list](https://github.com/SVA-BL00/LeetCode/tree/master/0908-middle-of-the-linked-list) |
 | [1894-merge-strings-alternately](https://github.com/SVA-BL00/LeetCode/tree/master/1894-merge-strings-alternately) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/SVA-BL00/LeetCode/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0383-ransom-note](https://github.com/SVA-BL00/LeetCode/tree/master/0383-ransom-note) |
 | [0409-longest-palindrome](https://github.com/SVA-BL00/LeetCode/tree/master/0409-longest-palindrome) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/SVA-BL00/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0696-count-binary-substrings](https://github.com/SVA-BL00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SVA-BL00/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
