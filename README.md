@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0557-reverse-words-in-a-string-iii](https://github.com/SVA-BL00/LeetCode/tree/master/0557-reverse-words-in-a-string-iii) |
 | [0696-count-binary-substrings](https://github.com/SVA-BL00/LeetCode/tree/master/0696-count-binary-substrings) |
 | [0712-minimum-ascii-delete-sum-for-two-strings](https://github.com/SVA-BL00/LeetCode/tree/master/0712-minimum-ascii-delete-sum-for-two-strings) |
+| [0763-special-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/0763-special-binary-string) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
 | [1160-letter-tile-possibilities](https://github.com/SVA-BL00/LeetCode/tree/master/1160-letter-tile-possibilities) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0217-contains-duplicate](https://github.com/SVA-BL00/LeetCode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/SVA-BL00/LeetCode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0763-special-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/0763-special-binary-string) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1306-minimum-absolute-difference](https://github.com/SVA-BL00/LeetCode/tree/master/1306-minimum-absolute-difference) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0190-reverse-bits) |
 | [0215-kth-largest-element-in-an-array](https://github.com/SVA-BL00/LeetCode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/SVA-BL00/LeetCode/tree/master/0347-top-k-frequent-elements) |
+| [0763-special-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/0763-special-binary-string) |
 | [0925-construct-binary-tree-from-preorder-and-postorder-traversal](https://github.com/SVA-BL00/LeetCode/tree/master/0925-construct-binary-tree-from-preorder-and-postorder-traversal) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1285-balance-a-binary-search-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1285-balance-a-binary-search-tree) |
