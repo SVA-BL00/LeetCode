@@ -271,6 +271,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SVA-BL00/LeetCode/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/SVA-BL00/LeetCode/tree/master/0070-climbing-stairs) |
 | [0189-rotate-array](https://github.com/SVA-BL00/LeetCode/tree/master/0189-rotate-array) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SVA-BL00/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [1013-fibonacci-number](https://github.com/SVA-BL00/LeetCode/tree/master/1013-fibonacci-number) |
 | [1014-k-closest-points-to-origin](https://github.com/SVA-BL00/LeetCode/tree/master/1014-k-closest-points-to-origin) |
 | [1146-greatest-common-divisor-of-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1146-greatest-common-divisor-of-strings) |
@@ -441,6 +442,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0190-reverse-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0190-reverse-bits) |
 | [0401-binary-watch](https://github.com/SVA-BL00/LeetCode/tree/master/0401-binary-watch) |
 | [0693-binary-number-with-alternating-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
+| [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SVA-BL00/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
