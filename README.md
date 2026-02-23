@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1205-defanging-an-ip-address](https://github.com/SVA-BL00/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SVA-BL00/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1651-shuffle-string](https://github.com/SVA-BL00/LeetCode/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SVA-BL00/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
 | [1797-goal-parser-interpretation](https://github.com/SVA-BL00/LeetCode/tree/master/1797-goal-parser-interpretation) |
@@ -176,6 +177,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/SVA-BL00/LeetCode/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SVA-BL00/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2107-find-unique-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/2107-find-unique-binary-string) |
@@ -444,6 +446,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0693-binary-number-with-alternating-bits](https://github.com/SVA-BL00/LeetCode/tree/master/0693-binary-number-with-alternating-bits) |
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SVA-BL00/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/SVA-BL00/LeetCode/tree/master/0899-binary-gap) |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
 | [2766-find-the-prefix-common-array-of-two-arrays](https://github.com/SVA-BL00/LeetCode/tree/master/2766-find-the-prefix-common-array-of-two-arrays) |
@@ -604,4 +607,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
+## Rolling Hash
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Hash Function
+|  |
+| ------- |
+| [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 <!---LeetCode Topics End-->
