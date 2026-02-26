@@ -46,6 +46,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1205-defanging-an-ip-address](https://github.com/SVA-BL00/LeetCode/tree/master/1205-defanging-an-ip-address) |
 | [1502-construct-k-palindrome-strings](https://github.com/SVA-BL00/LeetCode/tree/master/1502-construct-k-palindrome-strings) |
 | [1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/SVA-BL00/LeetCode/tree/master/1516-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SVA-BL00/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [1651-shuffle-string](https://github.com/SVA-BL00/LeetCode/tree/master/1651-shuffle-string) |
 | [1756-minimum-deletions-to-make-string-balanced](https://github.com/SVA-BL00/LeetCode/tree/master/1756-minimum-deletions-to-make-string-balanced) |
@@ -344,6 +345,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0067-add-binary](https://github.com/SVA-BL00/LeetCode/tree/master/0067-add-binary) |
 | [0898-transpose-matrix](https://github.com/SVA-BL00/LeetCode/tree/master/0898-transpose-matrix) |
 | [1324-where-will-the-ball-fall](https://github.com/SVA-BL00/LeetCode/tree/master/1324-where-will-the-ball-fall) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SVA-BL00/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1552-build-an-array-with-stack-operations](https://github.com/SVA-BL00/LeetCode/tree/master/1552-build-an-array-with-stack-operations) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SVA-BL00/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2058-concatenation-of-array](https://github.com/SVA-BL00/LeetCode/tree/master/2058-concatenation-of-array) |
@@ -453,6 +455,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0767-prime-number-of-set-bits-in-binary-representation](https://github.com/SVA-BL00/LeetCode/tree/master/0767-prime-number-of-set-bits-in-binary-representation) |
 | [0899-binary-gap](https://github.com/SVA-BL00/LeetCode/tree/master/0899-binary-gap) |
 | [1458-sort-integers-by-the-number-of-1-bits](https://github.com/SVA-BL00/LeetCode/tree/master/1458-sort-integers-by-the-number-of-1-bits) |
+| [1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one](https://github.com/SVA-BL00/LeetCode/tree/master/1520-number-of-steps-to-reduce-a-number-in-binary-representation-to-one) |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
 | [2509-minimize-xor](https://github.com/SVA-BL00/LeetCode/tree/master/2509-minimize-xor) |
 | [2533-bitwise-xor-of-all-pairings](https://github.com/SVA-BL00/LeetCode/tree/master/2533-bitwise-xor-of-all-pairings) |
