@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3447-clear-digits](https://github.com/SVA-BL00/LeetCode/tree/master/3447-clear-digits) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 | [4055-longest-balanced-substring-i](https://github.com/SVA-BL00/LeetCode/tree/master/4055-longest-balanced-substring-i) |
 | [4056-longest-balanced-substring-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
 ## Array
@@ -290,6 +291,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SVA-BL00/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
 | [3325-find-the-largest-area-of-square-inside-two-rectangles](https://github.com/SVA-BL00/LeetCode/tree/master/3325-find-the-largest-area-of-square-inside-two-rectangles) |
 | [3555-final-array-state-after-k-multiplication-operations-i](https://github.com/SVA-BL00/LeetCode/tree/master/3555-final-array-state-after-k-multiplication-operations-i) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -410,6 +412,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2564-most-profitable-path-in-a-tree](https://github.com/SVA-BL00/LeetCode/tree/master/2564-most-profitable-path-in-a-tree) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Binary Tree
 |  |
 | ------- |
@@ -554,6 +557,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
 | [3772-minimum-pair-removal-to-sort-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3772-minimum-pair-removal-to-sort-array-ii) |
 | [3773-minimum-pair-removal-to-sort-array-i](https://github.com/SVA-BL00/LeetCode/tree/master/3773-minimum-pair-removal-to-sort-array-i) |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Data Stream
 |  |
 | ------- |
@@ -625,4 +629,8 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [1557-check-if-a-string-contains-all-binary-codes-of-size-k](https://github.com/SVA-BL00/LeetCode/tree/master/1557-check-if-a-string-contains-all-binary-codes-of-size-k) |
+## Union-Find
+|  |
+| ------- |
+| [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 <!---LeetCode Topics End-->
