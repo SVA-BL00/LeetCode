@@ -55,6 +55,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1807-partitioning-into-minimum-number-of-deci-binary-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1807-partitioning-into-minimum-number-of-deci-binary-numbers) |
 | [1884-minimum-changes-to-make-alternating-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/1884-minimum-changes-to-make-alternating-binary-string) |
 | [1894-merge-strings-alternately](https://github.com/SVA-BL00/LeetCode/tree/master/1894-merge-strings-alternately) |
+| [1910-check-if-binary-string-has-at-most-one-segment-of-ones](https://github.com/SVA-BL00/LeetCode/tree/master/1910-check-if-binary-string-has-at-most-one-segment-of-ones) |
 | [1915-check-if-one-string-swap-can-make-strings-equal](https://github.com/SVA-BL00/LeetCode/tree/master/1915-check-if-one-string-swap-can-make-strings-equal) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/SVA-BL00/LeetCode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/SVA-BL00/LeetCode/tree/master/2021-remove-all-occurrences-of-a-substring) |
