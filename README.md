@@ -321,6 +321,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [2017-minimum-number-of-flips-to-make-the-binary-string-alternating](https://github.com/SVA-BL00/LeetCode/tree/master/2017-minimum-number-of-flips-to-make-the-binary-string-alternating) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/SVA-BL00/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [3889-minimum-cost-path-with-teleportations](https://github.com/SVA-BL00/LeetCode/tree/master/3889-minimum-cost-path-with-teleportations) |
 | [3956-trionic-array-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3956-trionic-array-ii) |
 ## Greedy
@@ -518,6 +519,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
 | [3338-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/SVA-BL00/LeetCode/tree/master/3338-count-submatrices-with-top-left-element-and-sum-less-than-k) |
 | [3406-find-all-possible-stable-binary-arrays-i](https://github.com/SVA-BL00/LeetCode/tree/master/3406-find-all-possible-stable-binary-arrays-i) |
+| [3407-find-all-possible-stable-binary-arrays-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3407-find-all-possible-stable-binary-arrays-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/SVA-BL00/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
 | [4056-longest-balanced-substring-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4056-longest-balanced-substring-ii) |
