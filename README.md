@@ -296,6 +296,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [1426-find-n-unique-integers-sum-up-to-zero](https://github.com/SVA-BL00/LeetCode/tree/master/1426-find-n-unique-integers-sum-up-to-zero) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
 | [1631-number-of-sub-arrays-with-odd-sum](https://github.com/SVA-BL00/LeetCode/tree/master/1631-number-of-sub-arrays-with-odd-sum) |
+| [1728-fancy-sequence](https://github.com/SVA-BL00/LeetCode/tree/master/1728-fancy-sequence) |
 | [1800-concatenation-of-consecutive-binary-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1800-concatenation-of-consecutive-binary-numbers) |
 | [2448-count-number-of-bad-pairs](https://github.com/SVA-BL00/LeetCode/tree/master/2448-count-number-of-bad-pairs) |
 | [2802-find-the-punishment-number-of-an-integer](https://github.com/SVA-BL00/LeetCode/tree/master/2802-find-the-punishment-number-of-an-integer) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | ------- |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1477-product-of-the-last-k-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1477-product-of-the-last-k-numbers) |
+| [1728-fancy-sequence](https://github.com/SVA-BL00/LeetCode/tree/master/1728-fancy-sequence) |
 | [2434-design-a-number-container-system](https://github.com/SVA-BL00/LeetCode/tree/master/2434-design-a-number-container-system) |
 ## Ordered Set
 |  |
@@ -617,6 +619,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Segment Tree
 |  |
 | ------- |
+| [1728-fancy-sequence](https://github.com/SVA-BL00/LeetCode/tree/master/1728-fancy-sequence) |
 | [3775-separate-squares-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3775-separate-squares-ii) |
 | [4045-longest-balanced-subarray-i](https://github.com/SVA-BL00/LeetCode/tree/master/4045-longest-balanced-subarray-i) |
 | [4047-longest-balanced-subarray-ii](https://github.com/SVA-BL00/LeetCode/tree/master/4047-longest-balanced-subarray-ii) |
