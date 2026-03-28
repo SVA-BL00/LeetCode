@@ -1,9 +1,16 @@
 class Solution:
     def isPalindrome(self, s: str) -> bool:
         s = s.lower()
-        palindrome = []
-        for letter in s:
-            if letter.isalnum():
-                palindrome.append(letter)
-        palindrome = "".join(palindrome)
-        return palindrome[::-1] == palindrome
+        i = 0
+        j = len(s)-1
+
+        while i < len(s)-1 and j > 0:
+            while i < len(s)-1 and s[i].isalnum() == False:
+                i += 1
+            while j > 0 and s[j].isalnum() == False:
+                j -= 1
+            if j <= i: break
+            if s[i] != s[j]: return False
+            i += 1
+            j -= 1
+        return True
