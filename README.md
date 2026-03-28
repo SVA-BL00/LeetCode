@@ -676,6 +676,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Union-Find
 |  |
 | ------- |
+| [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/SVA-BL00/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
