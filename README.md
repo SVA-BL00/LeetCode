@@ -418,6 +418,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0547-number-of-provinces](https://github.com/SVA-BL00/LeetCode/tree/master/0547-number-of-provinces) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/SVA-BL00/LeetCode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
@@ -436,6 +437,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 | [0112-path-sum](https://github.com/SVA-BL00/LeetCode/tree/master/0112-path-sum) |
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/0226-invert-binary-tree) |
+| [0547-number-of-provinces](https://github.com/SVA-BL00/LeetCode/tree/master/0547-number-of-provinces) |
 | [0896-smallest-subtree-with-all-the-deepest-nodes](https://github.com/SVA-BL00/LeetCode/tree/master/0896-smallest-subtree-with-all-the-deepest-nodes) |
 | [1073-number-of-enclaves](https://github.com/SVA-BL00/LeetCode/tree/master/1073-number-of-enclaves) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/SVA-BL00/LeetCode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -651,6 +653,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 ## Graph Theory
 |  |
 | ------- |
+| [0547-number-of-provinces](https://github.com/SVA-BL00/LeetCode/tree/master/0547-number-of-provinces) |
 | [3235-minimum-cost-to-convert-string-i](https://github.com/SVA-BL00/LeetCode/tree/master/3235-minimum-cost-to-convert-string-i) |
 | [3238-minimum-cost-to-convert-string-ii](https://github.com/SVA-BL00/LeetCode/tree/master/3238-minimum-cost-to-convert-string-ii) |
 | [3887-minimum-cost-path-with-edge-reversals](https://github.com/SVA-BL00/LeetCode/tree/master/3887-minimum-cost-path-with-edge-reversals) |
@@ -677,6 +680,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/SVA-BL00/LeetCode/tree/master/0200-number-of-islands) |
+| [0547-number-of-provinces](https://github.com/SVA-BL00/LeetCode/tree/master/0547-number-of-provinces) |
 | [3902-maximize-spanning-tree-stability-with-upgrades](https://github.com/SVA-BL00/LeetCode/tree/master/3902-maximize-spanning-tree-stability-with-upgrades) |
 | [3983-minimum-operations-to-equalize-binary-string](https://github.com/SVA-BL00/LeetCode/tree/master/3983-minimum-operations-to-equalize-binary-string) |
 ## Minimum Spanning Tree
